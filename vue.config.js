@@ -1,4 +1,4 @@
 module.exports = {
     lintOnSave: false,
-    // publicPath : '/blue-chip-clicks/'
+    publicPath : '/blue-chip-clicks/'
 }
