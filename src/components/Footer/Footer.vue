@@ -46,6 +46,7 @@
 
 <style scoped>
 #footer {
+  font-size: 125%;
   background: black;
   color: white;
   bottom: 0;

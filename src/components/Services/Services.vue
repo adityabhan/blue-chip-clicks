@@ -9,10 +9,10 @@
             class="col-lg-3 col-md-5 col-sm-10 offset-md-0 offset-sm-1 px-0 rounded"
           >
             <div class="image">
-              <img :src="require('@/assets/img/google-ads-1.png')" alt="" />
+              <img :src="require('@/assets/img/ads-logo.jpg')" alt="" />
               <div class="overlay">
-                <p class="h4">Google Ads</p>
-                <p class="textmuted">
+                <p class="h4" style="color:black;">Google Ads</p>
+                <p class="textmuted" style="color:black;">
                   Running google ads to increase targeted reach.
                 </p>
                 <ul class="list-unstyled d-flex">

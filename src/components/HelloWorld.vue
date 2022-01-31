@@ -58,6 +58,6 @@ a {
 
 #first-look {
   background: white;
-  padding: 20% 0% 20% 15%;
+  padding: 22% 0% 20% 15%;
 }
 </style>

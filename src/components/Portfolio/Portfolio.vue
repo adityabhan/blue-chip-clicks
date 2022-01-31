@@ -38,7 +38,7 @@
         </div>
         <div class="col">
           <img
-            src="https://mdbcdn.b-cdn.net/img/new/standard/city/042.webp"
+            :src="require('@/assets/img/colour-mix.jpg')"
             class="img-fluid rounded"
             id="portfolio-img"
           />
